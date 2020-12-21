@@ -1,3 +1,3 @@
-# flutter_barcode_scanner_example
+# Barcode Scanner
 
-Demonstrates how to use the flutter_barcode_scanner plugin.
+Aplicativo para escanear códigos de barra e QR Code.
